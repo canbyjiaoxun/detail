@@ -1,5 +1,5 @@
-### Home
-### People
-### Research
-### Publication
-### About
+---
+layout: page
+title: Research
+permalink: /research/
+---
