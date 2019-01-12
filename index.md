@@ -1,4 +1,4 @@
-### Home
+### [Home](../index.html)
 ### People
 ### Research
 ### Publication
